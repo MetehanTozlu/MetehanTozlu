@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-💫 About Me: 👋 Hi, I’m Metahan Tozlu<br>👀 I’m interested in web development<br>🌱 I’m currently learning Javascript and React Framework
+💫 About Me: 👋 Hi, I’m Metehan Tozlu<br>👀 I’m interested in web development<br>🌱 I’m currently learning Javascript and React Framework
 
 
 ## 🌐 Socials:
